@@ -68,4 +68,3 @@ $ python3 hola_mundo.py
 ```
 
 Felicidades haz terminado la primera lección y escrito tu primer código con python.
-

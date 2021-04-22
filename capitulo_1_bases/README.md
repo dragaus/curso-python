@@ -1,16 +1,18 @@
+ 
 # Bases
 
 En este capítulo conoceremos las bases de python.
 
 ## Temas
 
-1. Instalar nuestro ambiente de trabajo
+1. [Instalar nuestro ambiente de trabajo](https://github.com/dragaus/curso-python/tree/main/capitulo_1_bases/tema_1_ambiente)
     * Instalando la versión correcta de python
     * Python en los diferentes sistemas operativos
     * Corriendo Hola Mundo
     * Errores
     * Corriendo programas de Python desde la terminal
-2. Variables y Tipos de datos básicos
+2. [Variables y Tipos de datos básicos](
+    https://github.com/dragaus/curso-python/tree/main/capitulo_1_bases/tema_2_variables)
     * Entendiendo que pasa con hola_mundo.py
     * Variables
         * Nombrando y usando variables
@@ -35,3 +37,19 @@ En este capítulo conoceremos las bases de python.
         * Como se escriben los comentarios
         * ¿Qué tipo de comentarios debes escribir?
         * Ejercicio
+3. [Introducción a las listas](https://github.com/dragaus/curso-python/tree/main/capitulo_1_bases/tema_3_introduccion_listas)
+    * ¿Qué es una lista?
+        * Acceder a un elemento de una lista
+        * Posición del index
+        * Usando un valor individual de una lista
+        * Ejercicios
+    * Cambiando, Agregando, y Removiendo elementos
+        * Modificando elementos en una lista
+        * Agregando elementos a una lista
+        * Removiendo elementos de una lista
+        * Ejercicios
+    * Organizando una lista
+        * Organizando una lista permanentemente con sort
+        * Organizando una lista temporalmente con sorted
+        * Imprimiendo una lista en orden inverso
+        * Encontrando la longitud de una lista
